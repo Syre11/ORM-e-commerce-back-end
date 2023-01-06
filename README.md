@@ -49,9 +49,9 @@ You are now ready to start your server, do so using:
 
 ## Walkthrough
 
-This application doesn't have a front end, so we view the functionality using Insomnia. View the walkthrough video [here](https://www.google.com)
+This application doesn't have a front end, so we view the functionality using Insomnia. View the walkthrough video [here](https://drive.google.com/file/d/1cL1GFmZzD_DjWyZuwDx9xz6K2FYgvaV5/view)
 
-![alt text](./assets/Insomnia%20Screenshot%202023-01-05%20165125.png)
+[![alt text](./assets/Insomnia%20Screenshot%202023-01-05%20165125.png)](https://drive.google.com/file/d/1cL1GFmZzD_DjWyZuwDx9xz6K2FYgvaV5/view)
 
 
 ## Credits
